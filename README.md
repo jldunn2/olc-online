@@ -33,8 +33,8 @@ First things first -- here's your to-do list:
 
 - [ ] Delete this to-do list.
 
-## [[Your project name goes here]]
-Your organization name goes here
+## [The Open Library - A Platform for Learning Communities]
+Chicago Public Library
 
 ## Purpose
 Your purpose goes here
@@ -44,8 +44,8 @@ Your project description goes here
 
 ## People
 List the people working on your project here, like this:
-- Katherine McConachie, [@kitsandkats](https://github.com/kitsandkats)
-- Philipp Schmidt, [@1l2p](https://github.com/1l2p)
+- Jeremy Dunn, [@jldunn2](https://github.com/jldunn2)
+
 
 ## Community Segments 
 Your community segments go here
